@@ -1,5 +1,16 @@
 # Joshua Estes
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-5.x%E2%86%928.x_Migrations-777BB4?logo=PHP" />
+  <a href="https://connect.symfony.com/profile/joshuaestes">
+    <img src="https://img.shields.io/badge/Symfony-Community_2010%2B-666666?logo=Symfony" />
+  </a>
+  <img src="https://img.shields.io/badge/CI/CD-First-0A66C2" />
+  <a href="https://github.com/SonsOfPHP">
+    <img src="https://img.shields.io/badge/Architecture-Modular-6f42c1" />
+  </a>
+</p>
+
 PHP engineer. Symfony ecosystem contributor. Engineering leader.
 
 I’ve been building and maintaining PHP systems since before Composer became standard. 
