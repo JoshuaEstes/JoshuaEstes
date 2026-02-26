@@ -1,26 +1,21 @@
 # Joshua Estes
 
-Senior Engineer focused on modernizing engineering systems, building scalable SaaS platforms, and improving developer workflows.
+Engineering leader focused on modernizing legacy systems, improving developer workflows, and building scalable SaaS platforms.
 
-## What I Do
+## Current Focus
 
-- Lead legacy modernization efforts (PHP upgrades, runtime migration strategies)
-- Design modular SaaS architectures using Symfony and event-driven patterns
-- Build CI/CD pipelines that improve developer feedback loops
-- Architect multi-tenant systems and plugin-based platforms
-- Develop structured automation systems with strong risk controls
+- Legacy modernization (PHP runtime upgrades, refactoring strategies)
+- CI/CD pipeline design and automation
+- Modular SaaS architecture (Symfony, event-driven systems)
+- Engineering process improvement and team enablement
 
-## Active Projects
-
-### Sons of PHP
-Reusable PHP components emphasizing modular architecture and event sourcing.
-
-### Commerce Kitty
-Multi-channel marketplace automation platform exploring scalable SaaS and plugin-based design.
+## Selected Projects
 
 ### Apex Squid
-Engineering laboratory for experimentation in architecture, automation, and performance-driven systems.
+Engineering studio focused on modular SaaS systems and automation frameworks.
 
----
+### Sons of PHP
+Reusable components emphasizing modularity and event-driven design.
 
-Interested in roles where I can lead engineering teams while continuing to contribute to architecture and code.
+### Commerce Kitty
+Multi-tenant marketplace automation platform.
